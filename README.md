@@ -1,3 +1,4 @@
+![Frame 69](https://github.com/user-attachments/assets/3901856e-ee2d-4ccc-8f0f-2fc96b8ef31e)
 # Guidy
 Guidy is a wayfinding typeface tailored to specific needs of most modern Cyrillic langugaes.
 
