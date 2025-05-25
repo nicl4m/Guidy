@@ -15,4 +15,4 @@ Typeface includes:
 
 Guidy is a geometric grotesque with humanistic roots. It draws inspiration from such typefaces as: Avenir, Frutiger, Geometria, Gill Sans, Wayfinding Sans 
 
-More info on [guidy.ru](guidy.ru)
+More info on [guidy.ru](https://www.guidy.ru/)
