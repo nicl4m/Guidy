@@ -3,7 +3,7 @@ Guidy is a wayfinding typeface tailored to specific needs of most modern Cyrilli
 
 ### Typeface includes:
 
-• 451 glyphs \
+• 451 Glyphs \
 • 48 Wayfidnig pictograms \
 • Support for 180+ languages \
 • 9 OT features \
@@ -16,4 +16,4 @@ More info on [guidy.ru](https://www.guidy.ru/)
 
 # License
 • Guidy is licensed under the [SIL Open Font License v1.1](https://openfontlicense.org) \
-• To view the copyright and specific terms and conditions please refer to OFL.txt
+• To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/nicl4m/guidy/blob/f3da4b46b684eceeccf4254f5b560ddd0710552a/OFL.txt)
