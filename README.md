@@ -14,6 +14,6 @@ It draws inspiration from such typefaces as: Avenir, Frutiger, Geometria, Gill S
 
 More info on [guidy.ru](https://www.guidy.ru/)
 
-# Lisence
+# License
 • Guidy is licensed under the [SIL Open Font License v1.1](https://openfontlicense.org) \
 • To view the copyright and specific terms and conditions please refer to OFL.txt
